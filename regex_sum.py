@@ -12,6 +12,6 @@ for line in hand:
          list_sum += int(x)      # int(x) converts string to numbers
 
 if (list_sum == 0):
-	print "No numbers found in the text file"
+	print "No numbers found in the text file. Update the file"
 else:
     print list_sum         
